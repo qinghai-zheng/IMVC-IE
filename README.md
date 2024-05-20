@@ -1,5 +1,5 @@
 # IMVC-IE
-Source codes of the work "Incomplete_Multi-View_Clustering_Via_Inference_and_Evaluation" published in ICASSP 2024.
+Source codes of the work "Incomplete multi-view clustering via inference and evaluation" published in ICASSP 2024.
 
 <img src="./FrameWork_IMVC-IE.jpg" width="70%">
 
