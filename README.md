@@ -13,7 +13,6 @@ If you find this repository useful in your research, please cite our work as fol
   &nbsp;&nbsp;&nbsp;&nbsp;volume={},<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;number={},<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;pages={8180-8184},<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;keywords={Clustering methods;Signal processing algorithms;Clustering algorithms;Self-supervised learning;Signal processing;Benchmark testing;Excavation;Incomplete multi-view clustering;missing data inference;data evaluation},<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;doi={10.1109/ICASSP48485.2024.10448378}<br/>
 }<br/>
 
