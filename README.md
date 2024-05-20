@@ -10,8 +10,6 @@ If you find this repository useful in your research, please cite our work as fol
   &nbsp;&nbsp;&nbsp;&nbsp;booktitle={ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, <br/>
   &nbsp;&nbsp;&nbsp;&nbsp;title={Incomplete Multi-View Clustering Via Inference and Evaluation}, <br/>
   &nbsp;&nbsp;&nbsp;&nbsp;year={2024},<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;volume={},<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;number={},<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;pages={8180-8184},<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;doi={10.1109/ICASSP48485.2024.10448378}<br/>
 }<br/>
